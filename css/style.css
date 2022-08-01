@@ -76,6 +76,7 @@ footer {
   color: #00082f;
   opacity: 0.6;
   transition: opacity 400ms;
+  margin-bottom: 24px;
 }
 
 footer:hover {
